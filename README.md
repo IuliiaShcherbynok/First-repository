@@ -1,3 +1,1 @@
 # First-repository
-
-Hi all!
